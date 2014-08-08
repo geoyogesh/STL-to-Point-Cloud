@@ -27,9 +27,9 @@ namespace Plotter
 
 
         private STL stl = null;
-        private string output_file = @"C:\Users\Yogesh\Desktop\pointcloud_web_viewer\data\sphere_0.2.txt";
-        private string inputsdl = @"C:\Users\Yogesh\Desktop\Sphere.stl";
-        private double precision = 0.2;
+        private string output_file = @"C:\temp\Plotter\pointcloud_web_viewer\data\complex-0-8.txt";
+        private string inputsdl = @"C:\Users\Yogesh\Desktop\complex.stl";
+        private double precision = 0.8;
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
